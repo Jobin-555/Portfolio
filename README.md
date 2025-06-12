@@ -1,6 +1,6 @@
 Personal Portfolio Website
 
-This is a responsive and minimalistic personal portfolio website built using **HTML**, **CSS**, and optional **JavaScript** for interactivity. It showcases my profile, skills, projects, internships, and contact details.
+This is a responsive and minimalistic personal portfolio website built using **HTML** and **CSS**. It showcases my profile, skills, projects, internships, and contact details.
 
 Features
 - Fixed top navigation bar with social icons
